@@ -59,5 +59,5 @@ Make sure you have Python 3.8 or newer installed on your system.
 ### 2. Clone the Repository
 
 ```bash
-git clone [https://github.com/wadiqabaig/Dashboard.git](https://github.com/wadiqabaig/Dashboard.git)
+git clone https://github.com/wadiqabaig/DataTales-Student-Performance-Dashboard.git
 cd Dashboard
