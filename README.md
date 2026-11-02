@@ -1,4 +1,5 @@
 # DataTales: Student Performance Dashboard
+[Watch DataTales Demo Video](https://drive.google.com/file/d/1DdUMEbTNcCZWa0LKsWUpXvT02o8BiETo/view)
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Dash](https://img.shields.io/badge/Dash-2.17-FF4B00.svg?style=flat&logo=plotly)](https://dash.plotly.com/)
